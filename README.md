@@ -26,7 +26,7 @@ A Laravel-based member management system with support for regions, provinces, an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MMLY.git
+git clone https://github.com/youss-ngk/MMLY.git
 cd MMLY
 ```
 
@@ -65,7 +65,7 @@ composer install
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MMLY.git
+git clone https://github.com/youss-ngk/MMLY.git
 cd MMLY
 ```
 
